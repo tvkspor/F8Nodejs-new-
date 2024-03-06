@@ -1,0 +1,36 @@
+h1 {
+  color: green; }
+
+footer {
+  color: green; }
+
+.user-avatar {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  margin-right: 4px; }
+
+.checkbox-select-all-option {
+  width: 180px;
+  margin: 0 16px; }
+
+.body {
+  display: grid;
+  place-items: center; }
+
+.input {
+  font-size: 1rem;
+  width: 300px;
+  padding: 6px 2px;
+  margin: 10px 0 10px 0; }
+
+.sub {
+  background-color: #df9b34;
+  cursor: pointer; }
+
+.form {
+  /* margin-top: 20vh; */
+  text-align: center;
+  border: 5px solid #6f4617;
+  padding: 20px;
+  background-color: #efc087; }
